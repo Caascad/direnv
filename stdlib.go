@@ -252,7 +252,7 @@ const StdLib = "#!/usr/bin/env bash\n" +
 	"    return 1\n" +
 	"  fi\n" +
 	"\n" +
-	"  source_env $rcpath\n" +
+	"  source_env \"$rcpath\"\n" +
 	"}\n" +
 	"\n" +
 	"# Usage: watch_file <filename> [<filename> ...]\n" +

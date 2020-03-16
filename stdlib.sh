@@ -249,7 +249,7 @@ source_hash() {
     return 1
   fi
 
-  source_env $rcpath
+  source_env "$rcpath"
 }
 
 # Usage: watch_file <filename> [<filename> ...]

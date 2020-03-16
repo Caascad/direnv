@@ -1,5 +1,8 @@
 # github.com/BurntSushi/toml v0.3.1
 github.com/BurntSushi/toml
+# github.com/direnv/direnv v0.0.0-20200128194816-c47dffa6212d
+github.com/direnv/direnv/gzenv
+github.com/direnv/direnv/xdg
 # github.com/direnv/go-dotenv v0.0.0-20181227095604-4cce6d1a66f7
 github.com/direnv/go-dotenv
 # golang.org/x/mod v0.2.0

@@ -15,7 +15,7 @@ exe = direnv$(shell go env GOEXE)
 GO = go
 
 # Change if you want to fork direnv
-PACKAGE = github.com/direnv/direnv
+PACKAGE = github.com/Caascad/direnv
 
 # BASH_PATH can also be passed to hard-code the path to bash at build time
 
